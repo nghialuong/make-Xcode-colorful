@@ -8,4 +8,4 @@ Let's make xCode colorful
 ![alt text](https://github.com/nghialuong/ios_development_theme/blob/master/config_demo_preview.png)
 
 
-Credit for https://draculatheme.com/
+Credit for [Dracula theme](https://draculatheme.com) and [Ubuntu Font Free Resouces](https://design.ubuntu.com/font/)
