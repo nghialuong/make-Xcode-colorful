@@ -1,4 +1,5 @@
-# ios_development_theme
+# make-xCode-colorful
+
 Let's make xCode colorful
 
 - Add "Dracula.xccolortheme" in your xCode as theme.
